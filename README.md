@@ -20,8 +20,9 @@
                
                • Internship Mode : Virtual
 
+📚 Projects :
 
- 📊 EDA of Restaurant Data :
+  📊 EDA of Restaurant Data :
 
        • Introduction :
        
