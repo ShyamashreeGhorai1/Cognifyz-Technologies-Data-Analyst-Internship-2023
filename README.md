@@ -15,5 +15,7 @@
    🚀 This Repository contains the projects which i did as an Intern with Cognifyz Technologies.
 
                • Internship Role : Data Analyst
+               
                • Internship Duration : From May, 2023 To Jul, 2023
+               
                • Internship Mode : Virtual
