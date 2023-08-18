@@ -21,7 +21,7 @@
                • Internship Mode : Virtual
 
 
-    📊 EDA of Restaurant Data :
+ 📊 EDA of Restaurant Data :
 
        • <b>Introduction </b> : Restaurant data analysis is a process of converting the data points into meaningful insights and extract 
          patterns from it through analysis which can help to make business related decision. To operate any restaurant , there may arise 
