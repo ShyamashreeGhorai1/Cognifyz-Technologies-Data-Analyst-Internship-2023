@@ -20,18 +20,19 @@
                
                • Internship Mode : Virtual
 
+
     📊 EDA of Restaurant Data :
 
-    • <b>Introduction </b> : Restaurant data analysis is a process of converting the data points into meaningful insights and extract 
+       • <b>Introduction </b> : Restaurant data analysis is a process of converting the data points into meaningful insights and extract 
          patterns from it through analysis which can help to make business related decision. To operate any restaurant , there may arise 
          many questions like , why some cuisines get more order than the other or how they can  improve customer experience  or how they 
          can reduce cost for employees etc. To get answer of these questions, restaurant data analysis may take important role. EDA of 
          restaurant data analysis can boost the performance of business by increasing the revenue.
 
-   • <b> Dataset and Features </b>: We perform our analysis on restaurant dataset which contain 9551 rows and 21 columns. Features of the 
-      dataset are : 1) Restaurant ID 2) Restaurant Name 3) Country Code 4) City 5) Address 6) Locality 7) Locality Verbose 8) Longitude 
-      9) Latitude 10) Cuisines 11) Average Cost for two 12) Currency 13) Has Table booking 14) Has Online delivery 15) Is delivering now 
-      16) Switch to order menu 17) Price range 18) Aggregate rating 19) Rating color 20) Rating text 21) Votes.
+      • <b> Dataset and Features </b>: We perform our analysis on restaurant dataset which contain 9551 rows and 21 columns. Features of 
+        the dataset are : 1) Restaurant ID 2) Restaurant Name 3) Country Code 4) City 5) Address 6) Locality 7) Locality Verbose 8) 
+        Longitude 9) Latitude 10) Cuisines 11) Average Cost for two 12) Currency 13) Has Table booking 14) Has Online delivery 15) Is 
+        delivering now 16) Switch to order menu 17) Price range 18) Aggregate rating 19) Rating color 20) Rating text 21) Votes.
 
 
 
