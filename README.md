@@ -24,7 +24,7 @@
 
     📊 EDA of Restaurant Data :
 
-        • 🌱 Introduction :
+        🌱 Introduction :
        
           Restaurant data analysis is a process of converting the data points into 
           meaningful insights and extract patterns from it through analysis which 
@@ -36,7 +36,7 @@
           data analysis can boost the performance of business by 
           increasing the revenue.
 
-       • Dataset and Features : 
+       🌱 Dataset and Features : 
       
          Performed analysis on restaurant dataset which contain 9551 rows and 21 columns. 
          Features of the dataset are : 1) Restaurant ID 2) Restaurant Name 3) Country Code
@@ -45,7 +45,7 @@
          Online delivery 15) Is delivering now 16) Switch to order menu 17) Price range
          18) Aggregate rating 19) Rating color 20) Rating text 21) Votes.
 
-         • Data Cleaning :
+         🌱 Data Cleaning :
 
          Cleaned data through following steps:
          Treatment of missing value : There are 9 missing values in cuisines feature,
@@ -55,7 +55,7 @@
          cuisines, restaurant name, address, locality, locality verbose and currency
          column.
 
-         • Result of Analysis :
+         🌱 Result of Analysis :
 
          
 
