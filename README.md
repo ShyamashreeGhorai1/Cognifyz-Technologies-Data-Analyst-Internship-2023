@@ -24,7 +24,7 @@
 
     📊 EDA of Restaurant Data :
 
-        • Introduction :
+        •🌱 Introduction :
        
           Restaurant data analysis is a process of converting the data points into 
           meaningful insights and extract patterns from it through analysis which 
